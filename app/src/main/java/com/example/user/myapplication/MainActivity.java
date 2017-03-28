@@ -13,7 +13,6 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.Toast;
 
-import static android.R.attr.button;
 
 public class MainActivity extends AppCompatActivity {
 
